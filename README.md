@@ -8,7 +8,7 @@ Each row will contain spaces (" ") and pound signs (#). The first row will conta
 
 Each following row will contian one less space and one more # until the final row, which is all #'s.
 
-EX: N = 4, "_" = space
+EX: N = 6, "_" = space
 
 *Row 1:* _ _ _ _ _ #
 
