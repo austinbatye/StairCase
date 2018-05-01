@@ -8,6 +8,8 @@ Each row will contain spaces (" ") and pound signs (#). The first row will conta
 
 Each following row will contian one less space and one more # until the final row, which is all #'s.
 
+Solution is O(n).
+
 EX: N = 6, "_" = space
 
 *Row 1:* _ _ _ _ _ #
